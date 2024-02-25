@@ -45,14 +45,14 @@ const Footer = () => {
               alias cum
             </p>
             <p className="text-gray-500 mt-4">
-              Made with 💖 by The Coding Journey
+              Developed by Holafix
             </p>
             <a
-              href="https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ"
+              href="https://holafix.github.io"
               target="_blank"
               className="inline-block bg-primary/90 text-white py-2 px-4 mt-4 text-sm rounded-full"
             >
-              Visit our YouTube Channel
+              Visit my github page
             </a>
           </div>
 
